@@ -11,5 +11,5 @@ Esta atividade foi desenvolvida durante a disciplina de Processamento de Linguag
 **Docente:** Prof. Dr. Alexandre Donizeti Alves <br>
 
 **Resolução desenvolvida por:**
-* Beatriz Fanuele Jafelice
-* Letícia Matias de Araujo
+* Beatriz Fanuele Jafelice - [beatrizjafelice ](https://github.com/beatrizjafelice)
+* Letícia Matias de Araujo - [beluga02](https://github.com/beluga02)
